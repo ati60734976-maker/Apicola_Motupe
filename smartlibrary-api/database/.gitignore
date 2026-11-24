@@ -1,0 +1,10 @@
+/smartlibrary-api/vendor/
+/smartlibrary-api/.env
+/smartlibrary-api/.env.backup
+/smartlibrary-api/node_modules/
+/smartlibrary-api/public/hot
+/smartlibrary-api/public/storage
+/smartlibrary-api/storage/*.key
+/smartlibrary-api/database/database.sqlite
+.DS_Store
+Thumbs.db
